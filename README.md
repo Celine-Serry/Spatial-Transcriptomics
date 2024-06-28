@@ -1,0 +1,1 @@
+This repository contains the code necessary for spatial transcriptomics data analysis. This repository utilizes already existing packages, like Scanpy and SpatialDE. The purpose of this repository is to explain how to get started on spatial transcriptomics analyses for beginners. 
